@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  width: 1125px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+a {
+  text-decoration: none;
+  color: #150101;
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 700;
+  word-wrap: break-word;
+  opacity: 0.6;
+  margin-left: 39px;
+}
+.home {
+  color: #d23166;
+  font-size: 15px;
+  font-family: Roboto;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+button {
+  width: 165px;
+  height: 49px;
+  background-color: #d23166;
+  border-radius: 5px;
+  border: 0;
+  color: #fafafa;
+  font-size: 16px;
+  font-family: Hind Madurai;
+  font-weight: 700;
+  word-wrap: break-word;
+}
